@@ -11,3 +11,9 @@
 body {
   font-family: var(--open-sans);
 }
+
+.logo {
+  background-color: var(--accent-light);
+  max-width: 200px;
+  background-attachment: fixed;
+}
